@@ -21,6 +21,7 @@ module.exports = {
     'react/jsx-filename-extension': 'off',
     'react/state-in-constructor': 'off',
     'react/no-unused-state': 'off',
+    'react/forbid-prop-types': 'off',
     // 'react/react-in-jsx-scope': 'off',
     // 'react/prefer-stateless-function': 'off',
   },
